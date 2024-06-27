@@ -1,2 +1,4 @@
-package Hw3;public class Lesson {
+package Hw3;
+
+public class Lesson {
 }
